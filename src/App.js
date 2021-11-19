@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './j.jpeg';
 import './App.css';
 import Navbar from './components/Navbar.js';
 
@@ -11,6 +11,7 @@ function App() {
         <p>
           Medical Charting made easy.
         </p>
+
         <a
           className="App-link"
           href="https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md"
