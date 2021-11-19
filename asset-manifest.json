@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dr.Charts/static/css/main.a0b0182c.chunk.css",
+    "main.js": "/Dr.Charts/static/js/main.a8ddfd17.chunk.js",
+    "main.js.map": "/Dr.Charts/static/js/main.a8ddfd17.chunk.js.map",
+    "runtime-main.js": "/Dr.Charts/static/js/runtime-main.cc49c421.js",
+    "runtime-main.js.map": "/Dr.Charts/static/js/runtime-main.cc49c421.js.map",
+    "static/js/2.41ff77dd.chunk.js": "/Dr.Charts/static/js/2.41ff77dd.chunk.js",
+    "static/js/2.41ff77dd.chunk.js.map": "/Dr.Charts/static/js/2.41ff77dd.chunk.js.map",
+    "static/js/3.11fbc29a.chunk.js": "/Dr.Charts/static/js/3.11fbc29a.chunk.js",
+    "static/js/3.11fbc29a.chunk.js.map": "/Dr.Charts/static/js/3.11fbc29a.chunk.js.map",
+    "index.html": "/Dr.Charts/index.html",
+    "static/css/main.a0b0182c.chunk.css.map": "/Dr.Charts/static/css/main.a0b0182c.chunk.css.map",
+    "static/js/2.41ff77dd.chunk.js.LICENSE.txt": "/Dr.Charts/static/js/2.41ff77dd.chunk.js.LICENSE.txt",
+    "static/media/j.67f3294c.jpeg": "/Dr.Charts/static/media/j.67f3294c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc49c421.js",
+    "static/js/2.41ff77dd.chunk.js",
+    "static/css/main.a0b0182c.chunk.css",
+    "static/js/main.a8ddfd17.chunk.js"
+  ]
+}
